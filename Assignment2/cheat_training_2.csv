@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tid,Refund,Marital Status,Taxable Income,Cheat
 1,Yes,Single,125k,No
 2,No,Married,100k,No
@@ -8,4 +9,16 @@ Tid,Refund,Marital Status,Taxable Income,Cheat
 7,Yes,Divorced,220k,No
 8,No,Single,85k,Yes
 9,No,Married,75k,No
+=======
+Tid,Refund,Marital Status,Taxable Income,Cheat
+1,Yes,Single,125k,No
+2,No,Married,100k,No
+3,No,Single,70k,No
+4,Yes,Married,120k,No
+5,No,Divorced,95k,Yes
+6,No,Married,60k,No
+7,Yes,Divorced,220k,No
+8,No,Single,85k,Yes
+9,No,Married,75k,No
+>>>>>>> 9b95edf66c1ccd4af0b1ab403e8412fe8865d862
 10,No,Single,90k,Yes

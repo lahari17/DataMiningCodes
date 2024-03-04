@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Tid,Refund,Marital Status,Taxable Income,Cheat
 11,No,Single,133k,No
 12,Yes,Single,88k,Yes
 13,No,Married,95k,No
 14,Yes,Divorced,102k,Yes
+=======
+Tid,Refund,Marital Status,Taxable Income,Cheat
+11,No,Single,133k,No
+12,Yes,Single,88k,Yes
+13,No,Married,95k,No
+14,Yes,Divorced,102k,Yes
+>>>>>>> 9b95edf66c1ccd4af0b1ab403e8412fe8865d862
 15,No,Married,140k,No
